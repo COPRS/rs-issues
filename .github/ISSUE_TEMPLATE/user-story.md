@@ -2,19 +2,15 @@
 name: User Story
 about: Suggest a need for this project
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**User story description:** _"As a [COPRS actor] I would like to [action] so that I can [need description]."_
+ 
+**Acceptance criteria:** (...)
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Definition of Done** _The User Story is considered completed when..._
+* _Acceptance criteria are full filled_
+* _Other potential conditions_
