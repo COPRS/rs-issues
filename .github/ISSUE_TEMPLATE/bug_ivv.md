@@ -9,11 +9,13 @@ assignees: ''
 
 <!--
 Note: Please search to see if an issue already exists for the bug you encountered.
+Note: A closed bug can be reopened and affected to a new version of the software.
 -->
 
  
 **Environment:**
 <!-- 
+- Delivery tag: release/0.1.0
 - Platform: IVV Orange Cloud
 - Configuration:
 -->
@@ -44,6 +46,14 @@ Tip: You can attach images or log files by dragging & dropping, selecting or pas
 
 **Whenever possible, first analysis of the root cause**
 <!-- A concise description of the first analysis. -->
+ 
+ <!-- For documentation only. -->
+ <!--
+**Documentation:**
+*Chapter xxx*
+Description of the issue
+...
+-->
   
  **Bug Generic Definition of Ready (DoR)**
 - [ ] The affect version in which the bug has been found is mentioned
@@ -54,6 +64,8 @@ Tip: You can attach images or log files by dragging & dropping, selecting or pas
 - [ ] The tested User Story / features is linked to the bug
 - [ ] Logs are attached if available 
 - [ ] A data set attached if available
+- [ ] Category label is link to the bug <!-- infra, mon, pro, perfo, hmi, secu, documentation, hardware -->
+ 
 
 **Bug Generic Definition of Done (DoD)**
 - [ ] the modification implemented (the solution to fix the bug) is described in the bug.
