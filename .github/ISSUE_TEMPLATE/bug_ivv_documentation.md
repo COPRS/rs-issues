@@ -31,14 +31,16 @@ Name: [Installation manual of the production common documentation](https://githu
 Revision: 19
 -->
 
+---
 **Chapter xxx**
-<!--or ***General***-->
+<!--or **General**-->
 ***Reported Issues***
 
 <!-- If possible 
 ***Expected informations:***
 -->
-
+  
+---
  **Bug Generic Definition of Ready (DoR)**
 - [ ] The affect version in which the bug has been found is mentioned
 - [ ] The context and environment of the bug is detailed
