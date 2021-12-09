@@ -47,13 +47,6 @@ Tip: You can attach images or log files by dragging & dropping, selecting or pas
 **Whenever possible, first analysis of the root cause**
 <!-- A concise description of the first analysis. -->
  
- <!-- For documentation only. -->
- <!--
-**Documentation:**
-*Chapter xxx*
-Description of the issue
-...
--->
   
  **Bug Generic Definition of Ready (DoR)**
 - [ ] The affect version in which the bug has been found is mentioned
@@ -64,7 +57,7 @@ Description of the issue
 - [ ] The tested User Story / features is linked to the bug
 - [ ] Logs are attached if available 
 - [ ] A data set attached if available
-- [ ] Category label is link to the bug <!-- infra, mon, pro, perfo, hmi, secu, documentation, hardware -->
+- [ ] Category label is link to the bug <!-- infra, mon, pro, perfo, hmi, secu -->
  
 
 **Bug Generic Definition of Done (DoD)**
