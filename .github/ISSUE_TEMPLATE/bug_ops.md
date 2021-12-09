@@ -1,5 +1,5 @@
 ---
-name: 🐞 Bug
+name: 🐞 Bug OPS
 about: File a bug/issue
 title: '[BUG] <title>'
 labels: bug, ops
@@ -11,17 +11,10 @@ assignees: ''
 Note: Please search to see if an issue already exists for the bug you encountered.
 -->
 
- 
 **Environment:**
 <!-- 
-- Platform: IVV Orange Cloud
+- Platform: OPS Orange Cloud
 - Configuration:
--->
-  
-**Test:**
-<!-- 
-- Name: TST_INFRA_DEP_orange
-- Traçability (requirements): NA
 -->
   
 **Current Behavior:**
@@ -50,8 +43,7 @@ Tip: You can attach images or log files by dragging & dropping, selecting or pas
 - [ ] The context and environment of the bug is detailed
 - [ ] The description of the bug is clear and unambiguous
 - [ ] The procedure (steps) to reproduce the bug is clearly detailed
-- [ ] The failed tests is linked to the bug : failed result % expected result
-- [ ] The tested User Story / features is linked to the bug
+- [ ] The tested User Story / features is linked to the bug if available
 - [ ] Logs are attached if available 
 - [ ] A data set attached if available
 
