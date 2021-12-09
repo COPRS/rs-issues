@@ -1,6 +1,6 @@
 ---
-name: 🐞 Bug IVV
-about: File a bug/issue
+name: 🐞 Bug IVV DOC
+about: File a bug/issue about documentation
 title: '[BUG][Documentation] <title>'
 labels: bug, ivv, documentation
 assignees: ''
