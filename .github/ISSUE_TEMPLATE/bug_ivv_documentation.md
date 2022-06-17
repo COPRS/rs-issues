@@ -2,7 +2,7 @@
 name: 🐞 Bug IVV DOC
 about: File a bug/issue about documentation
 title: '[BUG][Documentation] <title>'
-labels: bug, ivv, documentation
+labels: bug, ivv, ccb, documentation
 assignees: ''
 
 ---
