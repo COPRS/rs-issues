@@ -1,12 +1,13 @@
+<!--
+TO-DO : Update assignees with CCB team's members
+-->
+
 ---
 name: 🐞 Bug User
 about: File a bug/issue
 title: '[BUG] <title>'
 labels: bug, user, CCB
 assignees: ''
-<!--
-TO-DO : Update assignees with CCB team's members
--->
 ---
 
 <!--
