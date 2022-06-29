@@ -1,7 +1,3 @@
-<!--
-TO-DO : Update assignees with CCB team's members
--->
-
 ---
 name: 🐞 Bug User
 about: File a bug/issue
@@ -9,7 +5,11 @@ title: '[BUG] <title>'
 labels: bug, user, CCB
 assignees: ''
 ---
-
+  
+<!--
+TO-DO : Update assignees with CCB team's members
+-->
+  
 <!--
 Note: Please search to see if an issue already exists for the bug you encountered.
 -->
