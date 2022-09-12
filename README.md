@@ -8,10 +8,12 @@ Issues can be EPICs, User Stories, Bugs... that need to be manipulated by the di
 
 Once a week, a meeting is held by a dedicated team to review new bugs and assign them to the developers. Existing bugs can also be updated to change the priority for e.g.
 
-We use [ZenHub](https://www.zenhub.com/) to manage the issues. It eases the process of handling, categorizing and following the issue. However ZenHub is only available for the contributors and end users shall use [GitHub issues](https://github.com/COPRS/rs-issues) directly.
-
 ## Creating a new bug
 When creating a bug, choose the template named ":lady_beetle: Bug User", unless you are from the development, ops and ivv team. If you don't know which template to choose, you are probably an end user, so it's safe to use the ":lady_beetle: Bug User" template. It comes with predefined labels and assignees, please **don't change** them. The end user shall only edit the content like *Environement*, *Steps To Reproduce* and attach evidences (logs and data set).
+
+Before creating a new ticket, please make sure that an existing ticket with the same issue is not already created.
+
+Click here to create a new ticket : [GitHub COPRS issues](https://github.com/COPRS/rs-issues/issues/new/choose)
 
 ## Labels
 As this repository is the only source repository for every Zenhub workspaces, labels shall be used in order to classify tickets in the appropriate workspaces. The rule is the following: one label is linked to one workspace.
