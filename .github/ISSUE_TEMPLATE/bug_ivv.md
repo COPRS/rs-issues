@@ -2,7 +2,7 @@
 name: 🐞 Bug IVV
 about: File a bug/issue
 title: '[BUG] <title>'
-labels: bug, ivv, CCB
+labels: bug, ivv, CCB, priority:minor
 assignees: ''
 
 ---
