@@ -2,7 +2,7 @@
 name: 🐞 Bug OPS
 about: File a bug/issue
 title: '[BUG] <title>'
-labels: bug, ops, CCB
+labels: bug, ops, CCB, priority::minor
 assignees: ''
 
 ---
