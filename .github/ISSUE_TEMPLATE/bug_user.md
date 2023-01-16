@@ -2,7 +2,7 @@
 name: 🐞 Bug User
 about: File a bug/issue
 title: '[BUG] <title>'
-labels: bug, user, CCB
+labels: bug, user, CCB, priority::minor
 assignees: ''
 ---
   
