@@ -13,10 +13,17 @@ Note: Please search to see if an issue already exists for the bug you encountere
 
 **Environment:**
 <!-- 
+- Delivery tag:
 - Platform: OPS Orange Cloud
 - Configuration:
 -->
   
+**Traçability:**
+<!-- 
+- Test(s): Test_name
+- Requirements: Req_name
+-->
+
 **Current Behavior:**
 <!-- A concise description of what you're experiencing. -->
 
