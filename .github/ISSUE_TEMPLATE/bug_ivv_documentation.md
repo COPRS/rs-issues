@@ -22,7 +22,7 @@ Note: A closed bug can be reopened and affected to a new version of the software
 <!-- If possible 
 **Test:**
 - Name: TST_PRO_DEP_S1L0
-- Traçability (requirements): NA
+- Traceability (requirements): NA
 -->
   
 **Document:**
