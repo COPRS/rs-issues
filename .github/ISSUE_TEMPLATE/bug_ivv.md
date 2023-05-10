@@ -23,7 +23,7 @@ Note: A closed bug can be reopened and affected to a new version of the software
 **Test:**
 <!-- 
 - Name: TST_INFRA_DEP_orange
-- Traçability (requirements): NA
+- Traceability (requirements): NA
 -->
   
 **Current Behavior:**

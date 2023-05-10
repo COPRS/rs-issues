@@ -18,7 +18,7 @@ Note: Please search to see if an issue already exists for the bug you encountere
 - Configuration:
 -->
   
-**Traçability:**
+**Traceability:**
 <!-- 
 - Test(s): Test_name
 - Requirements: Req_name
